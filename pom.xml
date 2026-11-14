@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.defensefactory</groupId>
     <artifactId>pcb-common</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>pom</packaging>
     <properties>
-        <jackson-databind.version>2.13.0</jackson-databind.version>
+        <jackson-databind.version>2.21.4</jackson-databind.version>
         <snakeyaml.version>1.30</snakeyaml.version>
     </properties>
     <dependencyManagement>
