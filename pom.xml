@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <properties>
         <jackson-databind.version>2.13.0</jackson-databind.version>
-        <snakeyaml.version>1.30</snakeyaml.version>
+        <snakeyaml.version>2.0</snakeyaml.version>
     </properties>
     <dependencyManagement>
         <dependencies>
